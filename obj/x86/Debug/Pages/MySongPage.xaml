@@ -45,7 +45,15 @@ Background="#BB86FC">
             </ScrollViewer>
         </StackPanel>
         <StackPanel>
-            <MediaPlayerElement x:ConnectionId='2' x:Name="MyMediaPlayer" AutoPlay="True" AreTransportControlsEnabled="True" VerticalAlignment="Bottom"/>
+            <MediaPlayerElement x:ConnectionId='2' x:Name="MyMediaPlayer" AreTransportControlsEnabled="True">
+                <MediaPlayerElement.TransportControls>
+                    <MediaTransportControls
+            IsFullWindowButtonVisible="False"
+            IsNextTrackButtonVisible="True"
+            IsPreviousTrackButtonVisible="True"
+            IsZoomButtonVisible="False" />
+                </MediaPlayerElement.TransportControls>
+            </MediaPlayerElement>
         </StackPanel>
     </StackPanel>
 </Page>

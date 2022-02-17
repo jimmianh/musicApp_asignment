@@ -97,8 +97,6 @@
     <RootType FullName="Windows.UI.Xaml.Controls.MediaPlayerElement">
       <RootProperty Name="AreTransportControlsEnabled" />
       <RootProperty Name="TransportControls" />
-      <RootProperty Name="AutoPlay" />
-      <RootProperty Name="VerticalAlignment" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.MediaTransportControls">
       <RootProperty Name="IsFullWindowButtonVisible" />

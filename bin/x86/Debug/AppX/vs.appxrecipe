@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-02-16T17:16:54.352</Modified>
+      <Modified>2022-02-17T09:28:39.538</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\music_asignment.exe">
       <PackagePath>entrypoint\music_asignment.exe</PackagePath>
-      <Modified>2022-02-16T17:16:53.278</Modified>
+      <Modified>2022-02-17T09:28:37.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\cloudinarydotnet\1.17.0\lib\netstandard2.0\CloudinaryDotNet.dll">
       <PackagePath>CloudinaryDotNet.dll</PackagePath>
@@ -130,47 +130,47 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\music_asignment.xr.xml">
       <PackagePath>music_asignment.xr.xml</PackagePath>
-      <Modified>2022-02-16T17:16:00.844</Modified>
+      <Modified>2022-02-17T09:27:06.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.832</Modified>
+      <Modified>2022-02-17T09:28:02.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.832</Modified>
+      <Modified>2022-02-17T09:28:02.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Pages\CreateMySongPage.xbf">
       <PackagePath>Pages\CreateMySongPage.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.833</Modified>
+      <Modified>2022-02-17T09:28:02.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Pages\CreateSongPage.xbf">
       <PackagePath>Pages\CreateSongPage.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.833</Modified>
+      <Modified>2022-02-17T09:28:02.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Pages\ListSongPage.xbf">
       <PackagePath>Pages\ListSongPage.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.833</Modified>
+      <Modified>2022-02-17T09:28:02.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Pages\LoginPage.xbf">
       <PackagePath>Pages\LoginPage.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.833</Modified>
+      <Modified>2022-02-17T09:28:02.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Pages\MySongPage.xbf">
       <PackagePath>Pages\MySongPage.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.834</Modified>
+      <Modified>2022-02-17T09:28:02.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Pages\Navigation.xbf">
       <PackagePath>Pages\Navigation.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.834</Modified>
+      <Modified>2022-02-17T09:28:02.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Pages\ProfilePage.xbf">
       <PackagePath>Pages\ProfilePage.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.834</Modified>
+      <Modified>2022-02-17T09:28:02.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Register\RegisterPage.xbf">
       <PackagePath>Register\RegisterPage.xbf</PackagePath>
-      <Modified>2022-02-16T17:16:38.832</Modified>
+      <Modified>2022-02-17T09:28:02.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -182,7 +182,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\source\repos\music_asignment\music_asignment\bin\x86\Debug\Core\music_asignment.exe">
       <PackagePath>music_asignment.exe</PackagePath>
-      <Modified>2022-02-16T17:16:54.341</Modified>
+      <Modified>2022-02-17T09:28:39.526</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
